@@ -1,0 +1,12 @@
+anmol_email:
+    resource: "@AnmolEmailBundle/Resources/config/routing.xml"
+    prefix:   /
+
+anmol_store:
+    resource: "@AnmolStoreBundle/Resources/config/routing.xml"
+    prefix:   /
+
+anmol_hello:
+    resource: "@AnmolHelloBundle/Resources/config/routing.yml"
+    prefix:   /
+
