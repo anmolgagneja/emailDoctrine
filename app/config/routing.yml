@@ -1,0 +1,4 @@
+am_lemail:
+    resource: "@AMLemailBundle/Resources/config/routing.yml"
+    prefix:   /
+

@@ -1,0 +1,7 @@
+parameters:
+#    am_lemail.example.class: AML\emailBundle\Example
+
+services:
+#    am_lemail.example:
+#        class: %am_lemail.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
