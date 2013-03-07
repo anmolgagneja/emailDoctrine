@@ -1,3 +1,7 @@
+aml_mail:
+    resource: "@AmlMailBundle/Resources/config/routing.yml"
+    prefix:   /
+
 anmol_email:
     resource: "@AnmolEmailBundle/Resources/config/routing.xml"
     prefix:   /
