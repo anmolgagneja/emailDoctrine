@@ -22,6 +22,7 @@ class AppKernel extends Kernel
             new Anmol\HelloBundle\AnmolHelloBundle(),
             new Anmol\StoreBundle\AnmolStoreBundle(),
             new Anmol\EmailBundle\AnmolEmailBundle(),
+            new Aml\MailBundle\AmlMailBundle(),
         );
 
         if (in_array($this->getEnvironment(), array('dev', 'test'))) {
