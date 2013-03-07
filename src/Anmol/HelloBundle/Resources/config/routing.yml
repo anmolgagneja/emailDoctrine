@@ -1,3 +1,0 @@
-anmol_hello_homepage:
-    pattern:  /hello/{name}
-    defaults: { _controller: AnmolHelloBundle:Default:index }

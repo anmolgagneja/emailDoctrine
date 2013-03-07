@@ -1,3 +1,0 @@
-emailDoctrine
-=============
-Readme
